@@ -1,3 +1,3 @@
 # WebTechProject
 
-# Team: Azimov Atabek, Aitakhunov Rustam, Belyankov Arthur
+### Team: Azimov Atabek, Aitakhunov Rustam, Belyankov Arthur
